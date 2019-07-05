@@ -77,7 +77,7 @@ The different source types contain various attributes and methods. The attribute
 ```eval_rst
  - :mod:`~magpylib.source.magnet.Box`
  - :mod:`~magpylib.source.magnet.Cylinder`
- - :mod:`~magpylib.source.magnet.Box`
+ - :mod:`~magpylib.source.magnet.Sphere`
  - :mod:`~magpylib.source.current.Line`
  - :mod:`~magpylib.source.current.Circular`
  - :mod:`~magpylib.source.moment.Dipole`
